@@ -1,0 +1,8 @@
+[submodule "video-vue"]
+	path = video-vue
+	url = https://github.com/MohammadAfandy/video-vue.git
+	branch = master
+[submodule "video-api"]
+	path = video-api
+	url = https://github.com/MohammadAfandy/video-api.git
+	branch = master
