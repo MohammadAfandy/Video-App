@@ -3,7 +3,7 @@
 ### DEMO
 
 ```
-URL: http://video-app-frontend.herokuapp.com/
+URL: https://video-app.mohammadafandy.com/
 User: demo
 Pass: demo123
 ```
